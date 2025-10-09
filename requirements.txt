@@ -1,0 +1,28 @@
+# Core data science libraries
+numpy==2.3.3
+pandas==2.3.3
+scipy==1.16.2
+
+# Machine learning
+# scikit-learn (includes MinMaxScaler and other preprocessing utilities)
+scikit-learn==1.7.2
+# Note: MinMaxScaler is part of scikit-learn (no separate package required)
+
+# Visualization
+matplotlib==3.10.7
+seaborn==0.13.2
+
+# Supporting dependencies (automatically installed with above packages)
+joblib==1.5.2
+threadpoolctl==3.6.0
+python-dateutil==2.9.0.post0
+pytz==2025.2
+tzdata==2025.2
+packaging==25.0
+pillow==11.3.0
+fonttools==4.60.1
+kiwisolver==1.4.9
+cycler==0.12.1
+contourpy==1.3.3
+pyparsing==3.2.5
+six==1.17.0
