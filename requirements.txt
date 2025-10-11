@@ -8,6 +8,17 @@ scipy==1.16.2
 scikit-learn==1.7.2
 # Note: MinMaxScaler is part of scikit-learn (no separate package required)
 
+# Deep Learning
+tensorflow>=2.15.0
+keras>=3.0.0
+
+# Advanced Gradient Boosting
+xgboost>=2.0.0
+lightgbm>=4.0.0
+
+# Hyperparameter Optimization
+optuna>=3.0.0
+
 # Visualization
 matplotlib==3.10.7
 seaborn==0.13.2
