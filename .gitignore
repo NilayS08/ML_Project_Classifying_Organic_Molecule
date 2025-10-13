@@ -1,3 +1,5 @@
 venv/
 .venv/
 .vscode/
+qm9s_irdata.csv 
+smiles.txt
