@@ -33,9 +33,14 @@ from tqdm import tqdm
 try:
     from rdkit import Chem
     from rdkit.Chem import Descriptors, rdMolDescriptors
+    print("✓ RDKit loaded successfully")
 except ImportError:
-    st.error("RDKit not installed. Please install it using: pip install rdkit")
-    st.stop()
+    print("Installing RDKit...")
+    import subprocess
+    subprocess.check_call(['pip', 'install', 'rdkit'])
+    from rdkit import Chem
+    from rdkit.Chem import Descriptors, rdMolDescriptors
+    print("✓ RDKit installed and loaded")
 
 warnings.filterwarnings('ignore')
 sns.set_style('whitegrid')
