@@ -23,6 +23,9 @@ optuna>=3.0.0
 matplotlib==3.10.7
 seaborn==0.13.2
 
+# Web Interface
+streamlit>=1.28.0
+
 # Supporting dependencies (automatically installed with above packages)
 joblib==1.5.2
 threadpoolctl==3.6.0
@@ -37,3 +40,5 @@ cycler==0.12.1
 contourpy==1.3.3
 pyparsing==3.2.5
 six==1.17.0
+tqdm==4.66.5
+rdkit==2025.03.6
