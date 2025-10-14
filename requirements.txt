@@ -23,6 +23,9 @@ optuna>=3.0.0
 matplotlib==3.10.7
 seaborn==0.13.2
 
+# Web Interface
+streamlit>=1.28.0
+
 # Supporting dependencies (automatically installed with above packages)
 joblib==1.5.2
 threadpoolctl==3.6.0
