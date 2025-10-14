@@ -161,11 +161,11 @@ IR_DATA_FILE = 'qm9s_irdata.csv'
 print("Reading IR spectra (this may take a few minutes for large files)...")
 
 chunks = []
-chunk_size = 10000
+chunk_size = 2000  # smaller chunks to reduce memory pressure
 
 for chunk in pd.read_csv(IR_DATA_FILE, chunksize=chunk_size, header=None, low_memory=False):
     chunks.append(chunk)
-    if len(chunks) % 5 == 0:
+    if len(chunks) % 20 == 0:
         print(f"  Processed {len(chunks) * chunk_size} spectra...")
 
 ir_data = pd.concat(chunks, ignore_index=True)
