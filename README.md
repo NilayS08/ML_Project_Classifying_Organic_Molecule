@@ -514,15 +514,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Streamlit**: Amazing framework for ML dashboards
 - **Scikit-learn**: Comprehensive ML library
 
----
 
-## 📞 Contact
-
-**Nilay Shah** - [@NilayS08](https://github.com/NilayS08)
-
-Project Link: [https://github.com/NilayS08/ML_Project_Classifying_Organic_Molecule](https://github.com/NilayS08/ML_Project_Classifying_Organic_Molecule)
-
----
 
 ## 📚 References
 
