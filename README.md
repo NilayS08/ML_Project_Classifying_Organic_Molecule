@@ -518,7 +518,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Nilay Shah** - [@NilayS08](https://github.com/NilayS08)
+**Nilay Srivastava** - [@NilayS08](https://github.com/NilayS08)
 
 Project Link: [https://github.com/NilayS08/ML_Project_Classifying_Organic_Molecule](https://github.com/NilayS08/ML_Project_Classifying_Organic_Molecule)
 
