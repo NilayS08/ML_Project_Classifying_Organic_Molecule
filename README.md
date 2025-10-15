@@ -478,34 +478,7 @@ This project demonstrates:
    - Version control
    - Interactive dashboards
 
----
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Areas for Improvement
-- [ ] Add more functional groups (expand from 31)
-- [ ] Implement deep learning models (CNN, LSTM)
-- [ ] Add data augmentation techniques
-- [ ] Export trained models (pickle/joblib)
-- [ ] Add unit tests
-- [ ] Deploy to cloud (Streamlit Cloud, Heroku)
-- [ ] Add molecule 2D/3D visualization
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgments
 
@@ -514,23 +487,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Streamlit**: Amazing framework for ML dashboards
 - **Scikit-learn**: Comprehensive ML library
 
----
 
-## 📞 Contact
-
-**Nilay Srivastava** - [@NilayS08](https://github.com/NilayS08)
-
-Project Link: [https://github.com/NilayS08/ML_Project_Classifying_Organic_Molecule](https://github.com/NilayS08/ML_Project_Classifying_Organic_Molecule)
-
----
-
-## 📚 References
-
-1. Ramakrishnan, R., et al. "Quantum chemistry structures and properties of 134 kilo molecules." *Scientific Data* 1.1 (2014): 140022.
-2. Weininger, David. "SMILES, a chemical language and information system." *Journal of Chemical Information and Computer Sciences* 28.1 (1988): 31-36.
-3. Eilers, Paul HC. "A perfect smoother." *Analytical Chemistry* 75.14 (2003): 3631-3636.
-
----
 
 <div align="center">
 
